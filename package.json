@@ -1,0 +1,27 @@
+{
+  "name": "sagoma",
+  "version": "1.0.0",
+  "description": "Make it easy to generate unified files",
+  "main": "index.js",
+  "bin": {
+    "sagoma": "index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^8.9.1",
+    "typescript": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myxvisual/sagoma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myxvisual/sagoma/issues"
+  },
+  "homepage": "https://github.com/myxvisual/sagoma#readme"
+}
